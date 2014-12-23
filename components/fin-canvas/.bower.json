@@ -1,0 +1,34 @@
+{
+  "name": "fin-canvas",
+  "authors": [
+    "stevewirts <anonymous@example.com>"
+  ],
+  "description": "Element providing solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer"
+  ],
+  "main": "fin-canvas.html",
+  "license": "MIT",
+  "homepage": "https://github.com/stevewirts/fin-canvas/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "polymer": "Polymer/polymer#master",
+    "fin-rectangle": "#master"
+  },
+  "_release": "6f8851820c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6f8851820cf1dd60155a0a24a3fb91d91b5f7718"
+  },
+  "_source": "git://github.com/stevewirts/fin-canvas.git",
+  "_target": "master",
+  "_originalSource": "stevewirts/fin-canvas",
+  "_direct": true
+}

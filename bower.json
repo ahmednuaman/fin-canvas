@@ -1,0 +1,7 @@
+{
+  "name": "fin-canvas#gh-pages",
+  "private": true,
+  "dependencies": {
+    "fin-canvas": "stevewirts/fin-canvas#master"
+  }
+}
